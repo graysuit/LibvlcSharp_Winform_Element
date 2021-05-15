@@ -1,4 +1,4 @@
-# Libvlcsharp.MediaPlayerElement.Winforms
+# LibvlcSharp Media Element For Winforms
 <p>
 Libvlcsharp is wrapper around libvlc(VLC libray). <br>
 It is use to play media.  <br>
@@ -8,7 +8,7 @@ This MediaPlayerElement is only for winforms. <br>
 <b>Note : </b> Well it works fine But even I may have done many mistakes. So pardon me.
 </p>
   
-<img src="https://raw.githubusercontent.com/graysuit/Libvlcsharp.MediaPlayerElement.Winforms/master/Screenshot.png">
+<img src="Screenshot.png">
 <b>What controls added ?</b>
 <ol>
 <li>Play/Pause Button</li>
